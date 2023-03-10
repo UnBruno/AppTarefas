@@ -1,8 +1,7 @@
 # Aplicativo mobile para gerenciamento de tarefas diárias
 
-
 <p align = "center">
-  <img src = "src/assets/toreadme/AppTarefas.gif">
+  <img width = "412" height = "732" src = "src/assets/toreadme/AppTarefas.gif">
 </p>
 
 ## Descrição do projeto
@@ -17,4 +16,6 @@ Ao final do projeto, obtive uma compreensão mais profunda sobre as tecnologias 
 Durante o desenvolvimento do aplicativo em questão utilizei as seguintes tecnologias: JavaScrip, React, React-Native, Firebase.
 
 Tive a oportinidade de aprender, aprimorar e aplicar vários conceitos básicos das tecnologias acima mencionadas, como: Componentes, estado, ciclo de vida de componentes, Navigation, Icons, FlatList, Props. Além de ter contato com o RealTime Database do Firebase onde realizo a criação, inserção, edição e exclusão de dados no banco.
+
+
 
